@@ -1,2 +1,2 @@
 # dio-bootcamp
-Desafios bootcamp dio full-stack
+Desafios bootcamp DIO full-stack
