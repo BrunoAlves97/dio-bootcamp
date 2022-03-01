@@ -1,8 +1,21 @@
 body{
+    padding: 0px 15px 0px 15px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(225, 225, 225);
+    margin: auto;
 }
 
 .txthead{
-    color: orange;
+    color: rgb(255, 145, 0);
     text-align: center;
 }
+
+.textolorem{
+    background-color: rgb(189, 189, 189);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.txtfooter{
+  font-weight: bold;
+}    
